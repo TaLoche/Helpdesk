@@ -1,6 +1,6 @@
 
 
-<!-- On respecte le markdown des copains sinon paf obligé de recopier en markdown deux chansons de Johnny -->
+<!-- On respecte le markdown des copains sinon paf obligé de recopier en markdown deux chansons de Johnny Hallyday -->
 ***
 
 # Raccourcis clavier
