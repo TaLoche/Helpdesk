@@ -85,6 +85,7 @@ TERMINAL
 
 * `git status` indique les changements et modifications faites 
 * `git add + nom du dossier/fichier` prévient quel fichier va être envoyé vers Github 
+* `git add .` ajoute tous les fichiers modifiés, /!\ il est conseillé de faire un `git status` pour s'assurer que les fichiers modifiés sont bien ceux qui sont souhaités d'être envoyés sur GitHub
 * `git commit -m "commentaire"` bonne pratique pour valider le changement avec détails des changements fait grâce aux commentaires (sauvegarde locale) 
 * `git push` valide le changement et finalise l'envoi vers Github (sauvegarde sur GitHub) 
 
