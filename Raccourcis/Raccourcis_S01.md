@@ -73,6 +73,8 @@ TERMINAL
  
 * `ctrl+L` ou `clear` -nettoie le terminal 
 * `ctrl+C` nouvelle ligne 
+* `ctrl+shift+c` pour copier
+* `ctrl+shift+v` pour coller
 
  
 #### Pour GIT, super recap O'clock ici : https://github.com/O-clock-Alumni/fiches-recap/blob/master/ldc/git.md
