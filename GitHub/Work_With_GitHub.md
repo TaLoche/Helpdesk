@@ -26,3 +26,7 @@
 * Pour finaliser ce changement on tape `git push` puis on valide
 * Un `git status` permet de vérifier si l'envoi s'est bien fait
 * Sur l'interface de __Github__ accessible depuis un navigateur on voit bien les changements faits via le bouton *Commit* dans le Repositoire du projet de travail.
+
+
+***
+* le fichier `.gitignore` est un fichier qui peut être édité dans VSC afin d'y mettre le nom des fichiers que GitHub doit ignorer comme __thumbs.db__ ou __DS_Store__
