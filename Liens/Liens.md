@@ -53,6 +53,7 @@ CSS
 * __Box shadows Generator__ `https://developer.mozilla.org/fr/docs/Web/CSS/Mod%C3%A8le_de_bo%C3%AEte_CSS/G%C3%A9n%C3%A9rateur_box-shadow`
 * __Transitions Effect__ `https://developer.mozilla.org/fr/docs/Web/CSS/transition-timing-function`
 * __Filtres__ `https://developer.mozilla.org/fr/docs/Web/CSS/filter`
+* __Animations Keyframes__ `https://developer.mozilla.org/fr/docs/Web/CSS/@keyframes`
 
 MARKDOWN
 --------
