@@ -13,6 +13,7 @@
 
 ### Ambrée
 * __Piste noire__ de *la brasserie des Cimes*
+* __Kwak__ de *la brasserie Bosteels*
 ### Blanche
 
 
