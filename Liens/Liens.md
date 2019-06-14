@@ -55,6 +55,7 @@ CSS
 * __Transitions Effect__ `https://developer.mozilla.org/fr/docs/Web/CSS/transition-timing-function`
 * __Filtres__ `https://developer.mozilla.org/fr/docs/Web/CSS/filter`
 * __Animations Keyframes__ `https://developer.mozilla.org/fr/docs/Web/CSS/@keyframes`
+* __Formes en CSS__ `https://css-tricks.com/the-shapes-of-css/`
 
 MARKDOWN
 --------
