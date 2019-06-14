@@ -6,7 +6,7 @@
 
 PROMO UNIVERSE
 --------
-* __RECAP des Cours__ `https://github.com/O-clock-Universe/Recap`
+* __RECAP des Cours__ https://github.com/O-clock-Universe/Recap
 * __RECAP Master__ `https://github.com/O-clock-Alumni/fiches-recap`
 * __La Forge (Suggestions)__ `https://github.com/O-clock-Alumni/Forge/issues`
 
