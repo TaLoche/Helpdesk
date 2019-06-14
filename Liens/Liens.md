@@ -39,7 +39,7 @@ CSS
 
 * __BEM__ `http://getbem.com/introduction/`
 
-### Bases CSS
+#### Bases CSS
 * __Comprendre le CSS__ `http://fr.learnlayout.com/`
 * __Balises CSS__ `https://cssreference.io/`
 * __Syntaxe CSS__ `https://github.com/O-clock-Alumni/fiches-recap/blob/master/css/syntaxe.md`
@@ -50,19 +50,19 @@ CSS
 * __La Marge__ `https://developer.mozilla.org/en-US/docs/Web/CSS/margin`
 * __Inline et Block__ `https://developer.mozilla.org/fr/docs/Web/HTML/%C3%89l%C3%A9ments_en_ligne`
 
-### Outils CSS
+#### Outils CSS
 * __Convertir PX en EM__ `http://pxtoem.com/`
 * __Verifier Compatiblité entre navigateurs__ `https://caniuse.com/`
 * __Box shadows Generator__ `https://developer.mozilla.org/fr/docs/Web/CSS/Mod%C3%A8le_de_bo%C3%AEte_CSS/G%C3%A9n%C3%A9rateur_box-shadow`
 
 
-### Flexbox
+#### Flexbox
 * __Concept Flexbox__ `https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Flexible_Box_Layout/Concepts_de_base_flexbox`
 * __Flexbox__ `https://css-tricks.com/snippets/css/a-guide-to-flexbox/`
 * __Rappel Flexbox__ `https://github.com/alsacreations/guidelines/blob/master/flexbox-cheatsheet.pdf`
 * __Exemples Flexbox__ `https://www.quackit.com/css/flexbox/examples/`
 
-### CSS Expert
+#### CSS Expert
 * __Transitions Effect__ `https://developer.mozilla.org/fr/docs/Web/CSS/transition-timing-function`
 * __Filtres__ `https://developer.mozilla.org/fr/docs/Web/CSS/filter`
 * __Animations Keyframes__ `https://developer.mozilla.org/fr/docs/Web/CSS/@keyframes`
