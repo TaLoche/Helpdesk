@@ -82,6 +82,8 @@ EXTENSIONS CHROME
 
 EXTENSIONS VSC
 --------
+* __Emmet__ https://docs.emmet.io/cheatsheet-a5.pdf
+
 *à installer depuis VSC*
 * __Better Comments__
 * __Colorize__
