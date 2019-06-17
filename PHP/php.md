@@ -5,6 +5,16 @@
 * __Fiches Récap__ https://github.com/O-clock-Alumni/fiches-recap/tree/master/php
 
 
+#### Vocabulaire
+* `String` ou `chaîne de caractères` est une séquence de caractères, c’est-à-dire un texte.Notez que toute valeur stockée dans une variable placée entre guillemets ou apostrophes sera considérée comme une chaine de caractères.
+* `concaténation` agglutiner des chaines de caractères pour obtenir un résultat en PHP
+
+
+voir true/false et bool //////
+transtypage /////
+
+
+
 #### Bonnes pratiques
 * le fichier php est lu d'en haut à en bas, donc les valeurs doivent être données en respectant cet ordre
 * pour faire un accent en php `\'` 
