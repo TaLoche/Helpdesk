@@ -34,7 +34,7 @@ if ($jeanIsBlue  == true) {
     echo 'Jean est dans le cockpit bleu' . PHP_EOL;
 }
 
-// On pourrait utiliser la même structure avec un "else" en plus, qui indique de faire quelque par le cas où le "if" est faux
+// On pourrait utiliser la même structure avec un "else" en plus, qui indique de faire quelque chose dans le cas où le "if" est faux
 $albanIsBlue = false;
 
 if ($albanIsBlue == true) {
