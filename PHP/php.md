@@ -8,10 +8,8 @@
 #### Vocabulaire
 * `String` ou `chaîne de caractères` est une séquence de caractères, c’est-à-dire un texte.Notez que toute valeur stockée dans une variable placée entre guillemets ou apostrophes sera considérée comme une chaine de caractères.
 * `concaténation` agglutiner des chaines de caractères pour obtenir un résultat en PHP
-
-
-voir true/false et bool //////
-transtypage /////
+* une variable peut être un `string` donc du __texte__, une valeur `true` ou `false` donc du __booléan__ ou une valeur avec une fraction `32.4` donc du __float__
+* transtypage /////
 
 
 
