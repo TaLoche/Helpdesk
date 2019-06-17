@@ -17,7 +17,7 @@
 #### Bonnes pratiques
 * `<?php ?>` on inclut notre code PHP dans un fichier HTML, grâce à cette balise
 * `$` on déclare une variable avec ce symbole et en lui donnant un nom ($nomdevariable) et elle se termine toujours par `;`
-* On peut nommer nos variables, avec ou sans majuscule, en utilisant des `_` (underscore / tiret bas) entre des mots, cependant tous les autres caractères spéciaux tel que `é`, `!`, `%`, etc ..., sont à éviter.
+* On peut nommer nos variables comme on veut, avec ou sans majuscule, en utilisant des `_` (underscore / tiret bas) entre des mots.
 * Cependant on prendre l'habitude de nommer nos variables en __CamelCase__, c'est-à-dire que la 1ère lettre est en minuscule et que si le nom contient plusieurs mots, on sépare visiuellement les mots en mettant une majuscule à chacun.
 * le fichier php est lu d'en haut à en bas, donc les valeurs doivent être données en respectant cet ordre
 * pour faire un accent en php `\'` 
