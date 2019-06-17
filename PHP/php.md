@@ -5,7 +5,7 @@
 * __Fiches Récap__ https://github.com/O-clock-Alumni/fiches-recap/tree/master/php
 
 
-####Bonnes pratiques
+#### Bonnes pratiques
 * le fichier php est lu d'en haut à en bas, donc les valeurs doivent être données en respectant cet ordre
 * pour faire un accent en php `\'` 
 * `"texte"` php comprend qu'il pourrait avoir du code entre les `""`
@@ -17,7 +17,7 @@
 * `$ nombre = 92;` variable dont le nombre est de 92
 
 
-####Opérations de Comparaisons
+#### Opérations de Comparaisons
 * `=` affectation
 * `==` opérateur de comparaison
 * `===` les valeurs comparées doivent être du même type (__comparaison plus stricte et donc à utiliser majoritairement__)
@@ -28,13 +28,13 @@
 * `>=` supérieur ou égal à
 
 
-####Raccourcis clavier
+#### Raccourcis clavier
 * `php -v` donne la version de php
 * `php -a` interactive mode enable (interprétation du code php)
 
 
 
-#####Exemples de code PHP
+##### Exemples de code PHP
 
         $prof = 'Dyjp';
         $cockpit = 'blue';
