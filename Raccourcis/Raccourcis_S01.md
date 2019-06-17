@@ -35,6 +35,7 @@ VISUAL STUDIO CODE (VSC)
 * `lorem+tab` permet d'inclure un paragraphe de texte de type lorem
 * `lorem(chiffre)` insert autant de mot lorem que précisé par le chiffre
 * `CTRL+D` et `CTRL+D` permettent de selectionner plusieurs sections de texte pour travailler en simultané sur ces éléments, très pratique pour copier/coller du code ou unifier des modifications communes.
+* `Sélection + ALT + Flèche haut/bas` permet de déplacer la sélection vers le haut ou bas
 
 
 MARKDOWN (.md ou .markdown)
