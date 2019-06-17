@@ -34,6 +34,15 @@
 * `>` supérieur à
 * `<=` inférieur ou égal à
 * `>=` supérieur ou égal à
+* `&&` comparaison des deux éléments présents avant et après
+* `||` comparateur équivalent à "ou"
+* `!false` inverse la valeur d'un booléen donc ici de `true`
+
+CamelCase
+
+else
+else if
+if
 
 
 #### Raccourcis clavier
