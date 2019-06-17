@@ -80,6 +80,14 @@ EXTENSIONS CHROME
 * __Trouver une couleur__ https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=fr
 * __Mesurer à l'écran__ https://chrome.google.com/webstore/detail/measure-it/jocbgkoackihphodedlefohapackjmna
 
+PHP
+----
+* __Bases PHP__ https://php.net/
+* __Opérateurs de comparaison__ https://www.php.net/manual/fr/language.operators.comparison.php
+
+
+
+
 EXTENSIONS VSC
 --------
 * __Emmet__ https://docs.emmet.io/cheatsheet-a5.pdf
