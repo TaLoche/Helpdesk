@@ -25,6 +25,7 @@ VISUAL STUDIO CODE (VSC)
 * `CTRL+SHIFT+I` indente automatiquement les balises 
 * `CTRL+SHIFT+E` ouvre l'explorer de fichiers 
 * `CTRL+SHIFT+X` ouvre les extensions 
+* `CTRL+Flèche gauche ou droite` se déplacer dans le texte mot par mot
 * `CTRL+SHIFT+Fléches` sélection au clavier 
 * touches `Début` et `fin` pour se déplacer hors des balises 
 * `CTRL+I` sélection la ligne 
