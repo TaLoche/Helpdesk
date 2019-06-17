@@ -1,8 +1,9 @@
 ***
-# Bosser en PHP
+# Bases PHP
 ***
 
 * __Fiches Récap__ https://github.com/O-clock-Alumni/fiches-recap/tree/master/php
+* __Fichier Explicatif__ 
 
 
 #### Vocabulaire
