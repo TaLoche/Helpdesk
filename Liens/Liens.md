@@ -84,6 +84,7 @@ PHP
 ----
 * __Bases PHP__ https://php.net/
 * __Opérateurs de comparaison__ https://www.php.net/manual/fr/language.operators.comparison.php
+* __Opérateur d'incrémentation & décrementation__ https://www.php.net/manual/fr/language.operators.increment.php
 
 
 
