@@ -9,6 +9,7 @@ PROMO UNIVERSE
 * __RECAP des Cours__ https://github.com/O-clock-Universe/Recap
 * __RECAP Master__ https://github.com/O-clock-Alumni/fiches-recap
 * __La Forge (Suggestions)__ https://github.com/O-clock-Alumni/Forge/issues
+* __Ressources Supplémentaires__ https://github.com/alsacreations/guidelines/blob/master/Ressources-liens.md
 
 TERMINAL
 ------
