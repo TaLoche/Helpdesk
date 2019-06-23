@@ -47,3 +47,23 @@ if ($note > 10) {
     echo 'Dommage vous n\'avez pas la moyenne';
 }
 ```
+
+La condition __switch__ permet de proposer une approche intéressante aux choix multiples d'une condition.
+
+```php
+$action = (int)readline('Entrez votre action : (1: attaquer, 2 : défendre, 3: passer mon tour)');
+
+switch ($action) {
+    case 1:
+        echo 'J`\attaque !';
+        break; //si break n'est pas spécifié la valeur par défaut sera malheureusement prioritaire
+    case 2:
+        echo 'Je défends !';
+        break;
+    case 3:
+        echo 'Je ne fais rien.';
+        break;
+    default:
+        echo 'Commande iconnue';
+}
+```
