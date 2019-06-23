@@ -1,19 +1,34 @@
 # Associer des variables
 ***
 
-### Appeler des variables
+##### Création de variables
 
 ```php
 $note = 10;
 $note2 = 15;
+```
+
+###### Appeler une des variable grâce à la commande PHP `echo`
+
+```php
+echo $note2;
+```
+
+###### Appeler les variables avec une formule mathématique
+
+```php
 echo ($note + $note2) / 2;
 ```
 
-Autre exemple
+##### Création de nouvelles variables
 
 ```php
 $prenom = 'Marc';
 $nom = 'Doe';
+```
+###### Appeler les variables grâce à la concaténation (`\n`)
+
+```php
 echo $prenom . ' ' . $nom;
 //variante
 echo "$prenom\n$nom";
