@@ -8,13 +8,13 @@ $note = 10;
 $note2 = 15;
 ```
 
-###### Appeler une des variable grâce à la commande PHP `echo`
+##### Appeler une des variable grâce à la commande PHP `echo`
 
 ```php
 echo $note2;
 ```
 
-###### Appeler les variables avec une formule mathématique
+##### Appeler les variables avec une formule mathématique
 
 ```php
 echo ($note + $note2) / 2;
@@ -26,7 +26,7 @@ echo ($note + $note2) / 2;
 $prenom = 'Marc';
 $nom = 'Doe';
 ```
-###### Appeler les variables grâce à la concaténation (`\n` permet le saut de ligne si la ou les variables sont appelées par `echo` avec des `"`)
+##### Appeler les variables grâce à la concaténation (`\n` permet le saut de ligne si la ou les variables sont appelées par `echo` avec des `"`)
 
 ```php
 echo $prenom . ' ' . $nom;
@@ -34,16 +34,17 @@ echo $prenom . ' ' . $nom;
 echo "$prenom\n$nom";
 ```
 
-###### On combine le tout
+##### On combine le tout
 
 ```php
 $prenom = 'marc';
 $nom = 'doe';
 $note = 10;
 $note2 = 20;
-$moyenne = ($note+$note2) / 2; // Pour la variante ci-dessous, on crée une nouvelle variante pour se faciliter la tâche.
 echo 'Bonjour ' . $prenom  . ' ' . $nom . ' vous avez eu ' . (($note + $note2) / 2) . ' de moyenne.' . PHP_EOL;
-//variante
+
+// Pour la variante ci-dessous, on crée une nouvelle variante pour se faciliter la tâche.
+$moyenne = ($note+$note2) / 2; 
 echo "Bonjour $prenom $nom vous eu $moyenne de moyenne. "
 ```
 
@@ -52,10 +53,11 @@ echo "Bonjour $prenom $nom vous eu $moyenne de moyenne. "
 ## Les tableaux
 ***
 
-Entre crochets on charge des valeurs pour une variable et on les appelle ensuite avec leur position (:warning: la liste commence à l'index de valeur `0` !)
+Entre crochets on charge des valeurs pour une variable et on les appelle ensuite avec leur position
+:warning: la liste commence à __l'index de valeur `0`__ !
 
 
-###### Tableau numéroté
+##### Tableau numéroté
 
 Le tableau peut contenir plusieurs types de valeurs, des nombres ou des chaînes de caractère dépendant du besoin.
 
@@ -64,7 +66,7 @@ $notes = [10, 20, 9, 8, 13, 'élève'];
 echo $notes [3];
 ```
 
-###### Tableau associatif (on crée des clés auxquelles on assigne des valeurs)
+##### Tableau associatif (on crée des clés auxquelles on assigne des valeurs)
 
 ```php
 $eleve = [
@@ -91,7 +93,7 @@ echo $eleve['nom'] . ' ' . $eleve['prenom'] . ' a eu comme note en français ' .
 ```
 
 
-###### Tableaux avec plusieurs valeurs, comment s'y retrouver pour affichier la valeur voulue
+##### Tableaux avec plusieurs valeurs, comment s'y retrouver pour affichier la valeur voulue
 
 ```php
 $classe = [
