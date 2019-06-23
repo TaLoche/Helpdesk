@@ -3,7 +3,7 @@
 ### Boucle `while`
 
 
-La boucle `while` va être utilisé dans les cas où l'on "__ne sais pas__" le nombre de boucles à effectuer. (__de préférence__)
+La boucle `while` va être utilisé dans les cas où l'on "__ne sait pas__" le nombre de boucles à effectuer. (__de préférence__)
 
 ```php
 while (/* Conditions */) {
