@@ -22,7 +22,7 @@ if ($note >= 10) {
 }
 ```
 
-On chercher à rajouter la condition où l'utilisateur a tout juste la moyenne. On se sert donc de `else if` (sinon si) pour rajouter cette option.
+On cherche à rajouter la condition où l'utilisateur a tout juste la moyenne. On se sert donc de `else if` (sinon si) pour rajouter cette option.
 
 ```php
 $note = readline('Entrez votre note : ');
