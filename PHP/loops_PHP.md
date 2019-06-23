@@ -10,7 +10,7 @@ while (/* Conditions */) {
 /* Actions de la boucle */ 
 }
 ```
-Par exemple:
+Par exemple: (tant que la valeur n'est pas 10 - `!` permet de demander `différent de`)
 ```php
 $chiffre = null;
 
