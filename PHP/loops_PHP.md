@@ -3,12 +3,21 @@
 ### Boucle `while`
 
 
-La boucle `while` va être utilisé dans les cas où l'on "__ne sait pas__" le nombre de boucles à effectuer. (__de préférence__)
+La boucle `while` (tant que) va être utilisé dans les cas où l'on "__ne sait pas__" le nombre de boucles à effectuer. (__de préférence__)
 
 ```php
 while (/* Conditions */) {
 /* Actions de la boucle */ 
 }
+```
+Par exemple:
+```php
+$chiffre = null;
+
+while ($chiffre !==10) {
+    $chiffre = (int)readline('Entrez une valeur : ');
+}
+echo 'Bravo vous avez gagné !';
 ```
 
 - __Conditions__ - Les conditions (tant que c'est vrai je continue la boucle, sinon je stoppe la boucle).
