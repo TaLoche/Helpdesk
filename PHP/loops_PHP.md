@@ -1,5 +1,7 @@
 ## Les différentes boucles de PHP
 
+https://www.phpfacile.com/apprendre_le_php/boucles_for_while_en_php
+
 ### Boucle `while`
 
 
