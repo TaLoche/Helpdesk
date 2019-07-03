@@ -108,6 +108,10 @@ EXTENSIONS VSC
 * __markdownlint__
 * __stylelint__
 
+BONUS
+------
+*__Du stream de codeurs__* https://github.com/bnb/awesome-developer-streams (un petit CTRL+F sur le Readme pour trouver les streamers français)
+
 
 JEUX
 -------
