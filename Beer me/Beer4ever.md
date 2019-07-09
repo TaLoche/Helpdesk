@@ -6,6 +6,11 @@
 
 
 ### Blonde
+* __Paradise Pepper__ Sichuan & Lime ale de *The Piggy Brewery Compagnie* (Lorraine)
+
+
+### Blanche
+* __A l'ombre des pensées__ White IPA de *la brasserie Bendorf* (Alsace)
 
 
 ### Brune
