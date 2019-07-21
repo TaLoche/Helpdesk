@@ -11,6 +11,8 @@ PROMO UNIVERSE
 * __La Forge (Suggestions)__ https://github.com/O-clock-Alumni/Forge/issues
 * __Ressources Supplémentaires__ https://github.com/alsacreations/guidelines/blob/master/Ressources-liens.md
 
+* __DevDocs (Bible Générale)__ https://devdocs.io/
+
 TERMINAL
 ------
 * __Raccourcis du Terminal__ https://juliend.github.io/linux-cheatsheet/
@@ -51,6 +53,9 @@ CSS
 * __La Marge__ https://developer.mozilla.org/en-US/docs/Web/CSS/margin
 * __Inline et Block__ https://developer.mozilla.org/fr/docs/Web/HTML/%C3%89l%C3%A9ments_en_ligne
 
+#### En savoir plus sur le CSS
+* __La Cascade__ https://la-cascade.io/tag/css/
+
 #### Outils CSS
 * __Convertir PX en EM__ http://pxtoem.com/
 * __Convertir PX en REM__ https://nekocalc.com/fr/px-a-rem-convertisseur
@@ -86,6 +91,11 @@ PHP
 * __Bases PHP__ https://php.net/
 * __Opérateurs de comparaison__ https://www.php.net/manual/fr/language.operators.comparison.php
 * __Opérateur d'incrémentation & décrementation__ https://www.php.net/manual/fr/language.operators.increment.php
+
+
+JS
+----
+* __La Totale__ http://adrienjoly.com/cours-javascript/
 
 
 
